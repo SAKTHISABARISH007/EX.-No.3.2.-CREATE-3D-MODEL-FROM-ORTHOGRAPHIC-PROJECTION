@@ -1,3 +1,4 @@
+[exp3.2 Drawing.pdf](https://github.com/user-attachments/files/23027298/exp3.2.Drawing.pdf)
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
